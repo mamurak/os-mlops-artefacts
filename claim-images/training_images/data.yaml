@@ -1,4 +1,4 @@
-path: ./accident-sample
+path: .
 
 train: train/images
 val: valid/images
